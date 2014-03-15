@@ -196,7 +196,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "property_tree"]
 	path = libs/property_tree
-	url = ../property_tree.git
+	url = https://github.com/sanderbog/property_tree
 	fetchRecurseSubmodules = on-demand
 [submodule "bimap"]
 	path = libs/bimap
